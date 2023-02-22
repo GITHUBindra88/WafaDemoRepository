@@ -1,0 +1,9 @@
+{
+	"name": "adftodevopswafa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f2f9298-2789-438c-8ce1-c5ce4bef1515",
+		"tenantId": "a684304e-9551-4848-978c-d7a656713c36"
+	}
+}
